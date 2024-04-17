@@ -1,7 +1,7 @@
 {
   "name": "PIK",
   "version": "2.0.0",
-  "homepage": "https://abrarfauzi.github.io/PIK-",
+  "homepage": "https://abrarfauzi.github.io/PIK-Web",
   "type": "module",
   "description": "The information of real estate of Israel",
   "main": "server.js",
