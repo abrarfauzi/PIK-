@@ -7269,6 +7269,22 @@ pify@^2.3.0:
   resolved "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
   integrity sha512-udgsAY+fTnvv7kI7aaxbqwWNb0AHiB0qBO89PZKPkoTmGOgdbrHDKD+0B2X4uTfJ/FT1R09r9gTsjUjNJotuog==
 
+"PIK@file:..":
+  version "2.0.0"
+  resolved "file:.."
+  dependencies:
+    bcryptjs "^2.4.3"
+    colors "^1.4.0"
+    cookie-parser "^1.4.6"
+    dotenv "^16.0.3"
+    express "^4.18.2"
+    express-session "^1.18.0"
+    jsonwebtoken "^9.0.0"
+    mongoose "^7.0.1"
+    multer "^1.4.5-lts.1"
+    nodemon "^3.1.0"
+    react-toastify "^10.0.5"
+
 pirates@^4.0.1, pirates@^4.0.4:
   version "4.0.6"
   resolved "https://registry.npmjs.org/pirates/-/pirates-4.0.6.tgz"
