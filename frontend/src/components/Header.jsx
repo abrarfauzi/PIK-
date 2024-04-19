@@ -60,9 +60,10 @@ const Header = () => {
                 </Container>
 
             </Navbar> */}
-        <header className="sticky top-0 z-10 bg-header dark:bg-gray-400 text-white h-20">
+        <header className="sticky top-0 z-10 bg-header dark:bg-gray-400 text-black h-20">
             <section className="container flex items-center justify-content-between">
                 <h1 className="text-3xl font-medium">
+
                     <Link to="/">
                         <img src={logo} className="size-24 items-start" alt='PIK' ></img>
                     </Link>

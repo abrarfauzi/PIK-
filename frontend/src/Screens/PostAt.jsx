@@ -144,7 +144,7 @@ const PostAt = () => {
                     onChange={(e) => setType(e.target.value)}
                     className="form-control"
                   >
-                    <option>Choose..</option>
+                    <option value=''>Choose...</option>
                     <option>Apartment</option>
                     <option>Studio</option>
                     <option>Villa</option>
@@ -168,7 +168,7 @@ const PostAt = () => {
                     value={saleOrRent}
                     onChange={(e) => setSaleOrRent(e.target.value)}
                   >
-                    <option>Choose..</option>
+                    <option value=''>Choose...</option>
                     <option>sale</option>
                     <option>rent</option>
                   </select>
